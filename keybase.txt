@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sinhav
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sinhav.github.io
+  * I am sinhav (https://keybase.io/sinhav) on keybase.
+  * I have a public key with fingerprint 404A 51B9 DD0D 0FD6 FC3B  8ECC 7782 88B7 47D2 FDCD
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016548a45796b7b7f911e25d1d595080eb37ecf5e6e8f9c9ccc3b0ea13d56e77720a",
+            "fingerprint": "404a51b9dd0d0fd6fc3b8ecc778288b747d2fdcd",
+            "host": "keybase.io",
+            "key_id": "778288b747d2fdcd",
+            "kid": "01016548a45796b7b7f911e25d1d595080eb37ecf5e6e8f9c9ccc3b0ea13d56e77720a",
+            "uid": "fb3b0e11e6f6e846821b2818c12dc119",
+            "username": "sinhav"
+        },
+        "service": {
+            "hostname": "sinhav.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470638809,
+    "expire_in": 157680000,
+    "prev": "f10f1c91f677bfc031dd82228226a703d134b1956a9df51663e193faa07506fa",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD7eSo/ZRQofMojFskRsZi8zuwc0qcQgu9rFyDrt7sx6Nm3P
+8eweTeS8GEVEdx+ihyQ0tQi0LDWJoosUlWUXMQ5kPhhF9VBBPQhFzZ7qIeixgWGY
+//++b77vZwYzkjzehJbYZNravX2ZCQ9vnYp4tpzLizVyWpA0cL5GrprGD1pDqO34
+q03C+TgAAUSSKKuihBWkYQ0bCoSUlwgkkiIBGVBNwFQ3JIqobCi6ouu6oAGqQoFI
+iGKMeaBy+ZxhWlU0HAqblsNkRSCqEtQUQgABBkEG48hU1zGWeVnWsIgJbxCdMGIg
+aLsMZk5TbVpgBlmNXfxxe//A/2ffkbicobk9JoAMBheRzEONl6GsQ57oECou0KZh
+S91NGdo2rYBax0XzOVarM3XqjtXN8Ve/oMp0AhHtV6JQOOgE9WAN6wYcJ2T7XLbT
+EHLh9VTz/xbya6ZF2CQZo46GbTNocT7IkLpjuspQxAAJsgyUfI7uCZlh6jddhISR
+DNhy36F1bh4IDKgr0EAYa4YOBEiIzPM820jFQCBQEDWoSEhViCFBhAQKFcFQVYAl
+gAx3MDattYKcT2Q21ap4qCpLdSJhykVv36xM9iR4PVNSEt0f5vGmzfzz7wKVU3/o
+SXk5NYt/7Ft1dW5F3oljpL/Qmj9avH6e0Ney/HnXgh3cIHpy8W5vzf3E+u5oSe9j
+X0nb4PWKzmujrUvKNjXt2j72oev8iqW95pSTN5a1vdjrTzme3fet9ipqCmRNHH4z
+eXbOwsulG1JzC6F3XCtKvz/SfnrjymxnfzT30KKC6IE7PdMuHGnfPjQQy00I9Be/
+z/wWSW2e/aBw+nBqUdu273j3mU+tO0Ors9BXvvx1Bt58j2/uqG8u3wOvDFuzImvG
+RzKXjLwqG8rhcUoKHxme2DAek4+ml+ZWZj2b9XbswsClsUcdPQ/myXbTS/h5xsfu
+ztqDyd3+rV/ePZ1eMbAuuXo0/SdMWTyJ
+=moQy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sinhav
+
+==================================================================
